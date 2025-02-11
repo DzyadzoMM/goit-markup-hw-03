@@ -226,7 +226,7 @@ header .container{
 .section_our_team_link .section_name_h-try {
     padding-bottom: 8px;
 }
-.div-our_team{
+.div_our_team{
     padding: 32px 0;
     text-align: center;
 }
@@ -239,7 +239,7 @@ header .container{
 .section_portfolio_li{
     width: calc((100% - 48) / 3);
 }
-.section_portfilio_div{
+.section_portfolio_div{
     border-bottom: 1px solid #e7e9fc;
     border-left: 1px solid #e7e9fc;
     border-right: 1px solid #e7e9fc;
